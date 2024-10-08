@@ -1,0 +1,7 @@
+{
+  "name": "Tugas2_TriSalendah",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
